@@ -7,7 +7,7 @@ https://jrodrigu3.github.io
 
 ## Description
 
-Backend usado para la pruebas de PULPO
+FRONT usado para la pruebas de PULPO
 - Este este link encontrarás el Front https://github.com/jrodrigu3/Front-pulpo
 
 
